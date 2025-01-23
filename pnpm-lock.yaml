@@ -13,7 +13,7 @@ devDependencies:
     version: 20.11.5
   dotenv:
     specifier: ^16.3.2
-    version: 16.3.2
+    version: 16.4.7
   fonteditor-core:
     specifier: ^2.3.2
     version: 2.3.2
@@ -753,8 +753,8 @@ packages:
       path-type: 4.0.0
     dev: true
 
-  /dotenv@16.3.2:
-    resolution: {integrity: sha512-HTlk5nmhkm8F6JcdXvHIzaorzCoziNQT9mGxLPVXW8wJF1TiGSL60ZGB4gHWabHOaMmWmhvk2/lPHfnBiT78AQ==}
+  /dotenv@16.4.7:
+    resolution: {integrity: sha512-47qPchRCykZC03FhkYAhrvwU4xDBFIj1QPqaarj6mdM/hgUzfPHcpkHJOn3mJAufFeeAxAzeGsr5X0M4k6fLZQ==}
     engines: {node: '>=12'}
     dev: true
 
