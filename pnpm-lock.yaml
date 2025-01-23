@@ -16,7 +16,7 @@ devDependencies:
     version: 16.3.2
   fonteditor-core:
     specifier: ^2.3.2
-    version: 2.3.2
+    version: 2.4.1
   node-fetch:
     specifier: ^3.3.2
     version: 3.3.2
@@ -845,8 +845,8 @@ packages:
       to-regex-range: 5.0.1
     dev: true
 
-  /fonteditor-core@2.3.2:
-    resolution: {integrity: sha512-WiyuiE1sshZStLC3yRqIgh9LqMX0T6G1NSFm1I7IXsiHlVlOA1sKQaZCuMW/Kmi4GfJQ/3QaClpaPuw14VyttA==}
+  /fonteditor-core@2.4.1:
+    resolution: {integrity: sha512-nKDDt6kBQGq665tQO5tCRQUClJG/2MAF9YT1eKHl+I4NasdSb6DgXrv/gMjNxjo9NyaVEv9KU9VZxLHMstN1wg==}
     dependencies:
       '@xmldom/xmldom': 0.8.10
     dev: true
